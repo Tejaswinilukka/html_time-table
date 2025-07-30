@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Time Table</title>
+</head>
+<body>
+
+    <h1 align="center">DEPARTMENT OF ADVANCED COMPUTER SCIENCE AND ENGINEERING</h1>
+    <h3 align="center">Academic year 2025-26 (I Semester)</h3>
+
+    <table border="1" align="center" cellpadding="10">
+        <caption><b><i>Student Time Table</i></b></caption>
+        <tr>
+            <th bgcolor="cornflowerblue" colspan="11">III AIML-A</th>
+        </tr>
+        <tr>
+            <th bgcolor="darkolivegreen">Period</th>
+            <th bgcolor="darkolivegreen">1</th>
+            <th bgcolor="darkolivegreen">2</th>
+            <th rowspan="2">9:50 - 10:10</th>
+            <th bgcolor="darkolivegreen">3</th>
+            <th bgcolor="darkolivegreen">4</th>
+            <th bgcolor="darkolivegreen">5</th>
+            <th rowspan="2">12:40 - 1:30</th>
+            <th bgcolor="darkolivegreen">6</th>
+            <th bgcolor="darkolivegreen">7</th>
+            <th bgcolor="darkolivegreen">8</th>
+        </tr>
+        <tr>
+            <th>Day/Hour</th>
+            <th>8:10 - 9:00</th>
+            <th>9:00 - 9:50</th>
+            <th>10:10 - 11:00</th>
+            <th>11:00 - 11:50</th>
+            <th>11:50 - 12:40</th>
+            <th>1:30 - 2:20</th>
+            <th>2:20 - 3:10</th>
+            <th>3:10 - 3:55</th>
+        </tr>
+        <tr>
+            <td>MON</td>
+            <td bgcolor="lightgreen">CV</td>
+            <td bgcolor="lightpink">DL</td>
+            <th rowspan="6">BREAK</th>
+            <td colspan="2" bgcolor="aquamarine">QALR</td>
+            <td bgcolor="lightyellow">WT</td>
+            <th rowspan="6" bgcolor="gray">LUNCH</th>
+            <td colspan="2">Open Elective</td>
+            <td rowspan="6" bgcolor="lightseagreen">Project/Augmented Learning/Advanced Learning</td>
+        </tr>
+        <tr>
+            <td>TUES</td>
+            <td bgcolor="lightgreen">CV</td>
+            <td bgcolor="lightpink">DL</td>
+            <td colspan="2" bgcolor="aquamarine">QALR</td>
+            <td bgcolor="lightyellow">WT</td>
+            <td colspan="2">Open Elective</td>
+        </tr>
+        <tr>
+            <td>WED</td>
+            <td colspan="2" bgcolor="lightyellow">WT</td>
+            <td bgcolor="lightblue">FIP</td>
+            <td bgcolor="lightseagreen">Project/Augmented Learning/Advanced Learning</td>
+            <td bgcolor="lightpink">DL</td>
+            <td colspan="2">Minor/Honour</td>
+        </tr>
+        <tr>
+            <td>THUR</td>
+            <td colspan="2" bgcolor="lightblue">FIP</td>
+            <td bgcolor="lightseagreen">Project/Augmented Learning/Advanced Learning</td>
+            <td bgcolor="lightyellow" > WT</td>
+            <td bgcolor="lightgreen">CV</td>
+            <td colspan="2">Minor/Honour</td>
+        </tr>
+        <tr>
+            <td>FRI</td>
+            <td bgcolor="lightblue">FIP</td>
+            <td bgcolor="lightgreen">CV</td>
+            <td bgcolor="lightseagreen">Project/Augmented Learning/Advanced Learning</td>
+            <td bgcolor="lightyellow">WT</td>
+            <td bgcolor="lightpink">DL</td>
+            <td colspan="2">Minor/Honour</td>
+        </tr>
+        <tr>
+            <td>SAT</td>
+            <td colspan="2" bgcolor="lightyellow">WT</td>
+            <td bgcolor="lightpink">DL</td>
+            <td colspan="2" bgcolor="lightblue">FIP</td>
+            <td colspan="2" bgcolor="lightseagreen">Project/Augmented Learning/Advanced Learning</td>
+        </tr>
+    </table>
+
+</body>
+</html>
